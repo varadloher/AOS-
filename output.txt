@@ -1,0 +1,2 @@
+This output will be redirected to the file output.txt
+Hello, World!
